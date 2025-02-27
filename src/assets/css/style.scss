@@ -280,3 +280,44 @@ footer {
         }
     }
 }
+
+// About Us Page
+
+
+.section-7{
+    .hero {
+
+        background: linear-gradient(to right, #000c, #0000), url(../images/hero.jpg);
+        min-height: 500px;
+        color: $text-white;
+    
+        span {
+            color: $secondary-color;
+            font-size: 1.5em;
+            font-weight: 500;
+        }
+    }
+}
+
+.section-8{
+    .card{
+        border-radius: 40px;
+        img{
+            border-top-left-radius: 40px;
+            border-top-right-radius: 40px;
+        }
+        .card-body{
+            a.title{
+                font-size: 1.4em;
+            }
+            .card-title{
+                font-size: 1.5em;
+                font-weight: 500;
+            }
+            .card-sub-title{
+                font-size: 1.3em;
+               color: $light-background;
+            }
+        }
+    }
+}
