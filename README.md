@@ -1,18 +1,23 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# laravelReact-construction-project
-This is a construction project website built using React (frontend) and Laravel (backend)
-=======
-# React + Vite
+# Laravel React Construction Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **construction project website** built using:
+- **React (Frontend)**
+- **Laravel (Backend)**  
 
-Currently, two official plugins are available:
+🔗 [Live Demo](https://laravel-react-construction-project-od3ptdart-soft84yas-projects.vercel.app/)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> ad86716 (reactLaravel)
-=======
-# laravelReact-construction-project
-This is a construction project website built using React (frontend) and Laravel (backend)
->>>>>>> 018b096ba6cbb83e2c95003d9dda8b1cb348e7bd
+## 📌 Features
+✔️ Modern UI with React  
+✔️ Secure Backend with Laravel  
+✔️ RESTful API Integration  
+✔️ Fully Responsive Design  
+
+## 📂 Technologies Used
+- **Frontend:** React, Vite  
+- **Backend:** Laravel  
+- **Database:** MySQL  
+
+## 🚀 How to Run Locally
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/soft84ya/laravelReact-construction-project.git
